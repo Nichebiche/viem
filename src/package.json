@@ -152,7 +152,7 @@
     "abitype": "1.0.8",
     "isows": "1.0.6",
     "ox": "0.6.7",
-    "ws": "8.18.0"
+    "ws": "8.18.1"
   },
   "license": "MIT",
   "homepage": "https://viem.sh",
